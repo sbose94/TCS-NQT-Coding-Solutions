@@ -1,2 +1,2 @@
 # TCS-Codevita-IX-Solutions
-Solutions of codes asked in TCS Codevita and Mockvita Season IX 
+Solutions of codes(in Python) asked in TCS Codevita and Mockvita Season IX 
