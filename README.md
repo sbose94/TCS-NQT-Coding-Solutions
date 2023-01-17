@@ -1,4 +1,4 @@
-# TCS-Codevita-IX-Solutions
+# TCS-NQT-Coding-Solutions
 Solutions of codes(in Python) asked in TCS NQT and Digital from 2020 					
 									
 									
